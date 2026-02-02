@@ -4,6 +4,8 @@ Este repositorio contiene la resolución de una práctica de **SQL avanzado**, o
 
 ## Estructura del repositorio
 
+
+```text
 .
 ├── .git/
 ├── Scripts/
@@ -21,6 +23,8 @@ Este repositorio contiene la resolución de una práctica de **SQL avanzado**, o
 ├── 11.sql
 ├── 12.sql
 └── 13.sql
+```
+
 
 
 ## Descripción
@@ -53,6 +57,10 @@ Para ejecutar los scripts es necesario disponer de:
 - Los scripts son independientes entre sí, salvo que el enunciado indique lo contrario.
 - Se recomienda revisar el archivo PDF antes de ejecutar los ejercicios para comprender el contexto de cada consulta.
 
-## Autor
+## Autor: Rubén Cerezo
 
 Práctica realizada como parte de un ejercicio formativo de SQL avanzado.
+## Tecnologías utilizadas:
+- SQL
+- Mindmap
+- Google Cloud SQL
